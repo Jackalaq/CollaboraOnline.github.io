@@ -29,7 +29,7 @@ report! See the steps how to do it, and [file the bug on GitHub](https://github.
 When you find a bug, please make sure you can reproduce it and identify
 the necessary steps to trigger it. Then describe the steps on GitHub:
 
-    https://github.com/CollaboraOnline/online/issues/new/choose
+[https://github.com/CollaboraOnline/online/issues/new/choose](https://github.com/CollaboraOnline/online/issues/new/choose)
 
 ## Try to reproduce it
 If the bug is specific to a file, please try to create a blank one and add just
